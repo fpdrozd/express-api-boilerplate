@@ -1,0 +1,7 @@
+node_modules/
+mongodb/
+app-config.env
+Dockerfile*
+docker-compose*
+.dockerignore
+.gitignore
